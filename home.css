@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    background: linear-gradient(to top right, #80cbc4, #e1bee7, #80ddea,#d1c4e9);
+}
+
+.nav{
+    width: 700px;
+    height: 70px;
+    background-image: url(./imagini/red.jpg);
+    background-repeat: no-repeat;
+    border-radius: 7px;
+    margin: 5px;
+    margin-left: 490px;
+    
+}
+img{
+    width: 110px;
+    height: 70px;
+    border-radius: 7px;
+}
+ .nav a:hover{
+    background-color:white;
+    height: 17px;
+    border-radius: 15px;
+    padding-bottom: 0em;
+}
+
+.nav a{
+    display:inline-flex;
+    padding: 0 50px;
+    z-index: 10;
+}
+
+input{
+    border-radius: 7px;
+}
+
+.mfamily{
+    margin-top: 15px;
+    margin-left: 100px;
+    border-radius: 7px;
+    width: 1590px;
+    height: 290px;
+    background-color: white;
+    background-image: url(./logo/png/mfamily-logo.png);
+    background-size: 550px 450px;
+    background-repeat: no-repeat;
+    background-position: -10em;
+}
+
+
+
+.info0 img{
+    width: 1260px;
+    height: 290px;
+    margin-left: 330px;
+    opacity: 90%;
+}
+
+.desing img{
+    width: 1260px;
+    height: 220px;
+    margin-left: 330px;
+    margin-top: -376px;
+}
+
+.sectiune1{
+    width: 1890px;
+    height: 805px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+    opacity: 120%;
+}
+
+.info1{
+    width: 1890px;
+    height: 175px;
+    margin-top: 0em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+.poza{
+    width: 1015px;
+    height: 505px;
+    background-image: url(./imagini/end\ game.jpeg);
+    background-size: 1000px 505px;
+    background-repeat: no-repeat;
+    border-radius:  10px 0px 0px 10px;
+}
+
+p img{
+    margin-left: 60px;
+    width: 310px;
+    height: 550px;
+    display:flex;
+    justify-content: space-between;
+}
+
+iframe{
+    margin-left: 1000px;
+    border-radius: 15px;
+    width: 890px;
+    height: 505px;
+    padding: 6px;  
+}
+
+
+.sectiune2{
+    width: 1890px;
+    height: 705px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+    opacity: 120%;
+}
+
+.poza2{
+    width: 1115px;
+    height: 505px;
+    background-image: url(./imagini//fast\ walkpaper.jpg);
+    background-size: 1000px 505px;
+    background-repeat: no-repeat;
+    border-radius:  10px 0px 0px 10px;
+}
+
+.info2{
+    width: 1890px;
+    height: 175px;
+    margin-top: 0em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+

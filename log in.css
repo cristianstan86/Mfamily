@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to top right, #80cbc4, #e1bee7, #80ddea,#d1c4e9);
+    font-family:'Arial';
+    height: 100%;
+}
+
+.create-account{
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+    margin-top: 55px;
+}
+
+.login{
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 10 0 0 450px;
+    padding: 80px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+    color:black;
+    padding: 40px;
+}
+
+label{
+    color: aquamarine;
+    font-size: 17px;
+}
+
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+#Mail{
+    
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 8px;
+    
+}
+
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 7px;
+    color: blue;
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    color: white;
+    font-size: 7px;
+}
+
+a{
+    float: right;  
+}
+
